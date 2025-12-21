@@ -1,15 +1,22 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-This is the place where I share cool code and break things :rofl:
+### Hi there 👋
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Docker
-- 💬 &nbsp;Ask me about anything related to Javascript/PHP or VueJS/ReactJS/NodeJS/Laravel
+Welcome to the place where I build things, break them, and build them better.
 
-### ✨&nbsp; About Me
+- 🔭 Currently working on projects that challenge my comfort zone  
+- 🌱 Learning and experimenting with **Docker** and modern DevOps practices  
+- 💬 Ask me about **JavaScript, PHP**, or frameworks like **Vue, React, Node.js, and Laravel**
 
-I am a Full Stack Developer with 5+ years of experience in developing enterprise applications working with QA and DevOps teammates in Agile Environment.
+---
 
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+### ✨ About Me
+
+I’m a **Full Stack Developer** with **5+ years of experience** building scalable, enterprise-level applications.
+
+I enjoy working in **Agile environments**, collaborating closely with **QA and DevOps teams**, and focusing on clean architecture, maintainable code, and continuous improvement.
+
+I’m driven by curiosity, problem-solving, and the idea that good software is built at the intersection of **clarity, performance, and purpose**.
+
+  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br/>
   <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
