@@ -3,7 +3,6 @@
 Welcome to the place where I build things, break them, and build them better.
 
 - 🔭 Currently working on projects that challenge my comfort zone  
-- 🌱 Learning and experimenting with **Docker** and modern DevOps practices  
 - 💬 Ask me about **JavaScript, PHP**, or frameworks like **Vue, React, Node.js, and Laravel**
 
 ---
