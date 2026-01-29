@@ -1,30 +1,68 @@
-### Hi there 👋
+## Hi 👋
 
-Welcome to the place where I build things, break them, and build them better.
+I build software designed for real-world constraints: real users, real data, real consequences.
 
-- 🔭 Currently working on projects that challenge my comfort zone  
-- 💬 Ask me about **JavaScript, PHP**, or frameworks like **Vue, React, Node.js, and Laravel**
+This is where I experiment, refactor ideas, and turn messy problems into maintainable systems.
+
+- 🔭 Currently focused on **backend-heavy systems**, integrations, and business-critical flows  
+- 💬 Ask me about **JavaScript, PHP**, and building systems with **Vue, React, Node.js, and Laravel**
+- 🧠 Interested in **architecture, payments, scalability, and long-term maintainability**
 
 ---
 
-### ✨ About Me
+## ✨ About Me
 
-I’m a **Full Stack Developer** with **5+ years of experience** building scalable, enterprise-level applications.
+I’m a **Full Stack Developer** with **5+ years of experience** working on **enterprise and production-grade applications**.
 
-I enjoy working in **Agile environments**, collaborating closely with **QA and DevOps teams**, and focusing on clean architecture, maintainable code, and continuous improvement.
+I’ve spent most of my career dealing with:
+- systems that evolve over time (not throwaway projects),
+- codebases with real constraints,
+- and domains where **mistakes are expensive** (payments, data integrity, business rules).
 
-I’m driven by curiosity, problem-solving, and the idea that good software is built at the intersection of **clarity, performance, and purpose**.
+I’m comfortable in **Agile teams**, working closely with **QA and DevOps**, and I care deeply about:
+- clear boundaries,
+- readable code,
+- and architectures that don’t collapse after the second feature.
 
-  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-  <br/>
-  <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I believe good software lives at the intersection of  
+**clarity, robustness, and purpose**.
+
+---
+
+## 🛠️ Languages & Tools
+
+**Main stack**
+- JavaScript / TypeScript
+- PHP (Laravel)
+- Node.js
+- Vue / React
+- Python (Flask & Django)
+
+**Backend & infrastructure**
+- PostgreSQL, MySQL, MongoDB
+- Docker, Nginx
+- REST & GraphQL
+- Authentication, authorization, background jobs
+
+**Quality & tooling**
+- Git
+- Testing (unit, integration, e2e)
+- CI-friendly workflows
+- Linux-based environments
+
+> Tools change. Mental models don’t.
+
+---
+
+## 🧩 What You’ll Find Here
+
+- Small focused projects that explore **specific problems**
+- Experiments around **architecture and data flow**
+- Utilities and proofs of concept I actually use
+- Code written to be **read later**, not just to pass
+
+
+> I don’t chase trends.  
+> I chase systems that still make sense a year later.
+
 
