@@ -10,34 +10,23 @@ I’ve spent most of my career dealing with:
 
 ---
 
-## 🚀 Side Projects
+## 🚀 Side Project
 
-### 🧠 Preguntario  
-👉 https://preguntario.vercel.app/
+# VivaVox
 
-A small **free** web app for creating and answering questions.
+👉 [VivaVox](https://vivavox.vercel.app/)
 
-Focused on:
-- simplicity over features
-- clarity in both UX and code
-- learning and sharing in public
-- gamifying topics through quizzes
----
+A small **free web app** that converts your voice into text in real time.
 
-### 🎤 Mic Transcriber  
-👉 https://mic-visualizer.vercel.app/
+No AI involved — VivaVox relies entirely on built-in browser capabilities.
 
-A small **free** web app that transcribes microphone input into text in real time.
+## Focus
 
-No AI involved — it relies on built-in browser capabilities.
-
-Focused on:
-- simplicity over complexity
-- real-time speech-to-text
-- clean and minimal UI
-- quick capture of spoken ideas
----
-
+- **Simplicity over complexity**
+- **Real-time speech-to-text**
+- **Clean, minimal UI**
+- **Fast capture of spoken ideas**
+- 
 ## 🛠️ Languages & Tools
 
 **Main stack**
