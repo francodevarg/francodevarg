@@ -26,7 +26,7 @@ No AI involved — VivaVox relies entirely on built-in browser capabilities.
 - **Real-time speech-to-text**
 - **Clean, minimal UI**
 - **Fast capture of spoken ideas**
-- 
+
 ## 🛠️ Languages & Tools
 
 **Main stack**
