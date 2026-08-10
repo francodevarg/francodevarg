@@ -12,9 +12,9 @@ I’ve spent most of my career dealing with:
 
 ## 🚀 Side Project
 
-# VivaVox
+# VivaVoice
 
-👉 [VivaVox](https://vivavox.vercel.app/)
+👉 [VivaVoice](https://vivavoice.vercel.app/)
 
 A small **free web app** that converts your voice into text in real time.
 
